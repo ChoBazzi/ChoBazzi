@@ -12,11 +12,6 @@
 </div>
 
 <br>
-
-## 👨‍💻 About Me
-
--   저는 **백엔드**에 관심 있는 **조현식**입니다.
--   현재 **[구직]** 하고 있습니다.
 <br>
 
 ## 🛠️ Skills
@@ -45,7 +40,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="조현식 Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ChoBazzi&label=Profile%20Views&color=0e75b6&style=flat" alt="조현식 Profile Views"/>
 </div>
 
 <br>
